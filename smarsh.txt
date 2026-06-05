@@ -1,0 +1,1 @@
+Smarsh connector file for manifest
